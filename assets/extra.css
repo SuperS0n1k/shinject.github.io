@@ -3,3 +3,9 @@ pre {
   color: var(--text-color);
   padding: 20px;
 }
+
+fieldset {
+border: none;
+background-color: var(--card-color);
+border-radius: 29px;
+}
