@@ -1,0 +1,5 @@
+pre {
+  background: var(--card-color);
+  color: var(--text-color);
+  padding: 20px;
+}
